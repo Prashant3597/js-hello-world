@@ -5,6 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello");
+console.log(500);
 
 /*  
 Next, PLAY! 
